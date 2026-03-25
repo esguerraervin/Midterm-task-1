@@ -40,4 +40,4 @@ This project focuses on transforming a raw dataset into a structured and reliabl
 ![Clean Data](https://github.com/esguerraervin/Midterm-task-1/blob/653e64e54276151d78b96af2f9414acf0f8ba847/clean%20data%201.png)
 
 ### 🧩 Normalization Structure
-![Normalization](https://github.com/esguerraervin/Midterm-task-3/blob/8db81cddcc73bd41d1447f4eff3e74baeed34b89/Normalization.PNG)
+![Normalization](https://github.com/esguerraervin/Midterm-task-1/blob/0a8170ba9e74f292059aa24e96df424a8fcde176/Bike%20sales.drawio.png)
