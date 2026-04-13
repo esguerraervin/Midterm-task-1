@@ -1,43 +1,54 @@
-# 📊 Midterm Task 1 – Data Cleaning & Normalization
+# 📊 Finals Task 01 – Data Preparation & Analysis using SQL  
 
-This project focuses on transforming a raw dataset into a structured and reliable format using **Excel**. It demonstrates how data cleaning and normalization improve clarity, consistency, and readiness for analysis.
-
----
-
-## 🔹 01. Initial Data Processing
-- Load and review the dataset in Excel  
-- Expand columns and inspect data structure  
-- Identify formatting issues and inconsistencies  
-- Detect and remove duplicate entries  
-- Handle missing or blank values  
-- Standardize data for accuracy and consistency  
+This project focuses on transforming a raw call center dataset into a structured and analyzable format using **SQL**. It demonstrates how data cleaning, transformation, and exploratory data analysis (EDA) improve data quality and generate meaningful insights for decision-making.
 
 ---
 
-## 🔹 02. Normalization Process
-- Organize data into a clear tabular format  
-- Separate combined fields into individual columns  
-- Use **Text-to-Columns** for structured data  
-- Rename and arrange columns for clarity  
-- Prepare dataset for analysis and reporting  
+## 🔹 01. Data Preparation  
+- Download and review the Callcenter.csv dataset  
+- Set up database using XAMPP and MySQL Workbench  
+- Create a schema and design a matching table structure  
+- Define appropriate column data types  
+- Import CSV data using Table Data Import Wizard  
+- Verify successful data loading into the database  
 
 ---
 
-## 🔹 03. Output and Findings
-- Review the cleaned dataset for consistency  
-- Present data in a more readable format  
-- Document key changes made during cleaning  
-- Prepare structured output for future analysis  
+## 🔹 02. Data Cleaning Process  
+- Fix incorrect data types (e.g., date stored as string)  
+- Convert date format to MySQL standard (YYYY-MM-DD)  
+- Handle missing values and inconsistencies  
+- Replace incorrect zero values with NULL  
+- Ensure data accuracy before analysis  
 
 ---
 
-## 📁 04. Output Files
+## 🔹 03. Data Analysis (EDA)  
+- Check dataset structure (rows and columns)  
+- Analyze distribution of call center data  
+- Identify most common call reasons  
+- Determine busiest days and call patterns  
+- Compute metrics (min, max, average call duration)  
+- Apply grouping, filtering, and aggregations in SQL  
 
-### 🧾 Dirty Data
-![Dirty Data](https://github.com/esguerraervin/Midterm-task-1/blob/11fa122d3cf4350facf3484efe34e3e7946bcb79/clean%20data%201.png)
+---
 
-### ✅ Clean Data
-![Clean Data](https://github.com/esguerraervin/Midterm-task-1/blob/653e64e54276151d78b96af2f9414acf0f8ba847/clean%20data%201.png)
+## 🔹 04. Output and Insights  
+- Generate insights from query results  
+- Identify trends in call volume and performance  
+- Present results using tables and screenshots  
+- Export SQL queries and outputs for submission  
+- Showcase complete SQL workflow in portfolio  
 
-### 🧩 Normalization Structure
-![Normalization](https://github.com/esguerraervin/Midterm-task-1/blob/0a8170ba9e74f292059aa24e96df424a8fcde176/Bike%20sales.drawio.png)
+---
+
+## 📁 05. Output Files  
+
+### 🧾 Raw Imported Data  
+![Raw Data](YOUR_IMAGE_LINK_HERE)
+
+### 🧹 Cleaned Data  
+![Cleaned Data](YOUR_IMAGE_LINK_HERE)
+
+### 📊 SQL Query Results  
+![Query Results](YOUR_IMAGE_LINK_HERE)
