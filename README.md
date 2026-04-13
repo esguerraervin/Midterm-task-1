@@ -1,54 +1,43 @@
-# 📊 Finals Task 01 – Data Preparation & Analysis using SQL  
+# 📊 Midterm Task 01 – Data Cleaning & Normalization  
 
-This project focuses on transforming a raw call center dataset into a structured and analyzable format using **SQL**. It demonstrates how data cleaning, transformation, and exploratory data analysis (EDA) improve data quality and generate meaningful insights for decision-making.
-
----
-
-## 🔹 01. Data Preparation  
-- Download and review the Callcenter.csv dataset  
-- Set up database using XAMPP and MySQL Workbench  
-- Create a schema and design a matching table structure  
-- Define appropriate column data types  
-- Import CSV data using Table Data Import Wizard  
-- Verify successful data loading into the database  
+This project focuses on transforming a raw dataset into a clean, organized, and reliable format using **Microsoft Excel**. It highlights the importance of data cleaning and normalization in improving data quality, consistency, and readiness for analysis.
 
 ---
 
-## 🔹 02. Data Cleaning Process  
-- Fix incorrect data types (e.g., date stored as string)  
-- Convert date format to MySQL standard (YYYY-MM-DD)  
-- Handle missing values and inconsistencies  
-- Replace incorrect zero values with NULL  
-- Ensure data accuracy before analysis  
+## 🔹 01. Initial Data Processing  
+- Load and examine the dataset in Excel  
+- Inspect columns and overall data structure  
+- Identify errors, inconsistencies, and formatting issues  
+- Detect and remove duplicate records  
+- Handle missing or incomplete data  
+- Standardize values for accuracy and uniformity  
 
 ---
 
-## 🔹 03. Data Analysis (EDA)  
-- Check dataset structure (rows and columns)  
-- Analyze distribution of call center data  
-- Identify most common call reasons  
-- Determine busiest days and call patterns  
-- Compute metrics (min, max, average call duration)  
-- Apply grouping, filtering, and aggregations in SQL  
+## 🔹 02. Normalization Process  
+- Organize data into a structured tabular format  
+- Break down combined fields into separate columns  
+- Apply **Text-to-Columns** for proper data separation  
+- Rename and rearrange columns for better clarity  
+- Ensure logical structure for efficient analysis  
 
 ---
 
-## 🔹 04. Output and Insights  
-- Generate insights from query results  
-- Identify trends in call volume and performance  
-- Present results using tables and screenshots  
-- Export SQL queries and outputs for submission  
-- Showcase complete SQL workflow in portfolio  
+## 🔹 03. Output and Findings  
+- Review the cleaned dataset for accuracy and consistency  
+- Present data in a clear and readable format  
+- Document key transformations and improvements  
+- Prepare the dataset for further analysis and reporting  
 
 ---
 
-## 📁 05. Output Files  
+## 📁 04. Output Files  
 
-### 🧾 Raw Imported Data  
-![Raw Data](YOUR_IMAGE_LINK_HERE)
+### 🧾 Dirty Data  
+![Dirty Data](YOUR_IMAGE_LINK_HERE)
 
-### 🧹 Cleaned Data  
-![Cleaned Data](YOUR_IMAGE_LINK_HERE)
+### ✅ Clean Data  
+![Clean Data](YOUR_IMAGE_LINK_HERE)
 
-### 📊 SQL Query Results  
-![Query Results](YOUR_IMAGE_LINK_HERE)
+### 🧩 Normalization Structure  
+![Normalization](YOUR_IMAGE_LINK_HERE)
