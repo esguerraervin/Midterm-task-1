@@ -33,11 +33,8 @@ This project focuses on transforming a raw dataset into a clean, organized, and 
 
 ## 📁 04. Output Files  
 
-### 🧾 Dirty Data  
-![Dirty Data](YOUR_IMAGE_LINK_HERE)
+### 🧾 Dirty Data ![Dirty Data](https://github.com/esguerraervin/Midterm-task-1/blob/11fa122d3cf4350facf3484efe34e3e7946bcb79/clean%20data%201.png)
 
-### ✅ Clean Data  
-![Clean Data](YOUR_IMAGE_LINK_HERE)
+### ✅ Clean Data ![Clean Data](https://github.com/esguerraervin/Midterm-task-1/blob/653e64e54276151d78b96af2f9414acf0f8ba847/clean%20data%201.png)
 
-### 🧩 Normalization Structure  
-![Normalization](YOUR_IMAGE_LINK_HERE)
+### 🧩 Normalization Structure ![Normalization](https://github.com/esguerraervin/Midterm-task-1/blob/0a8170ba9e74f292059aa24e96df424a8fcde176/Bike%20sales.drawio.png))
